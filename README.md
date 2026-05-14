@@ -1,30 +1,35 @@
-# 👋 Hey there! I'm Rahul
+# 👋 Hey, I'm Rahul Rathod
 
-## 💻 About Me  
-🎓 I’m a Computer System Administration student with a strong interest in **Cybersecurity**, **Linux**, **Cloud Computing**, and **DevOps**.  
-🔐 Currently doing a Cyber Security Internship at **Prodigy InfoTech**, where I’m building real-world security tools in Python.  
-🛠️ Passionate about building secure systems, automating workflows, and exploring open-source technologies.
+💻 IT Executive | System Administration & Cybersecurity Enthusiast  
 
-## 🚀 What I'm Working On  
-- 🔒 **Cyber Security Projects**: Pixel Image Encryption, Caesar Cipher, and more  
-- 🐳 **Docker & DevOps**: Containerizing full-stack apps with monitoring and logging  
-- 📡 **Monitoring Tools**: Prometheus, Grafana, Loki, and Zabbix  
-- ☁️ **Self-hosted Cloud**: Built on CasaOS with added tools like Passbolt (Password Manager)
+I have hands-on experience with Linux administration, Docker deployments, monitoring tools, networking, and basic security implementation. Currently working in IT operations while continuously improving my skills in Cybersecurity, Cloud, and DevOps.
 
-## 🌱 Currently Learning  
-- Advanced Linux and Networking  
-- Ethical Hacking and Penetration Testing  
-- Python & Bash scripting for automation  
-- AWS, Docker, Kubernetes basics  
-- Web development (HTML, CSS, JavaScript)
+## 🚀 Skills
+- Linux Administration
+- Docker & Docker Compose
+- Networking & Troubleshooting
+- Monitoring & Logging Tools
+- Bash & Python Scripting
+- System & User Management
+- Basic Cybersecurity & Hardening
 
-## 🤝 Let's Collaborate  
-Looking to collaborate on **open-source**, **security**, and **automation** projects. If you're working on something exciting, let’s connect!
+## 🛠️ Projects & Experience
+- Deployed self-hosted applications using Docker
+- Setup monitoring and logging environments
+- Worked on cybersecurity projects in Python
+- Managed IT infrastructure and user support
+- Built a self-hosted cloud environment on CasaOS
 
-## 📫 Reach Me  
-- 📧 Email: rahulrathod3578@gmail.com 
-- 🔗 LinkedIn: www.linkedin.com/in/rahulrathod-sysadmin
-- 💻 GitHub: [https://github.com/rahulrgit](https://github.com/rahulrgit)
+## 🌱 Currently Learning
+- Advanced Cybersecurity
+- Ethical Hacking & Pentesting
+- Kubernetes & Cloud
+- Automation with Python & Bash
 
-## ⚡ Fun Fact  
-I spend more time securing servers than securing my sleep schedule 😄  
+## 📫 Connect With Me
+📧 Email: rahulrathod3578@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/rahulrathod-sysadmin  
+💻 GitHub: https://github.com/rahulrgit
+
+⚡ Fun Fact:  
+I troubleshoot servers faster than I troubleshoot my sleep schedule 😄
