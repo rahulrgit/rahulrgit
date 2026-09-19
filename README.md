@@ -1,126 +1,129 @@
-👋 Hey, I'm Rahul Rathod
+# 👋 Hey, I'm Rahul Rathod
 
-💻 IT Executive | System Administration | Infrastructure & Cybersecurity
+### 💻 IT Executive | System Administration | Infrastructure & Cybersecurity
 
-I'm an IT professional with hands-on experience in system administration, IT infrastructure, networking, Windows & Linux environments, Docker, monitoring, and security operations.
+I'm an IT professional with hands-on experience in **system administration, IT infrastructure, networking, Windows & Linux environments, Docker, monitoring, and security operations**.
 
-I currently work in IT operations, managing infrastructure, troubleshooting systems, supporting users, and working on security and infrastructure improvements.
+Currently working in IT operations while continuously improving my skills in **Cybersecurity, Cloud Infrastructure, DevOps, and Automation**.
 
-I'm continuously building my skills in Cybersecurity, Cloud Infrastructure, DevOps, and Automation.
+---
 
-🧑‍💻 About Me
-💼 IT Executive working in IT Infrastructure & Operations
-🖥️ Hands-on experience with Windows & Linux administration
-🌐 Experience with networking, troubleshooting, DNS and infrastructure
-🐳 Working with Docker & self-hosted services
-🔐 Interested in Cybersecurity, system hardening and security operations
-☁️ Exploring AWS, Azure and Cloud Infrastructure
-⚙️ Interested in automation using Bash & Python
-🚀 Building practical infrastructure and cybersecurity projects
-🚀 Technical Skills
+## 🧑‍💻 About Me
 
-🖥️ Systems & Infrastructure
-Windows Administration
-Linux Administration
-Active Directory
-User & Access Management
-System Deployment & Troubleshooting
-IT Infrastructure Management
+* 💼 IT Executive working in **IT Infrastructure & Operations**
+* 🖥️ Windows & Linux Administration
+* 🌐 Networking, DNS & Troubleshooting
+* 🐳 Docker & Docker Compose
+* 🔐 Cybersecurity & System Hardening
+* ☁️ Cloud Infrastructure
+* ⚙️ Bash & Python Automation
+* 🛠️ IT Infrastructure & Technical Support
 
-🌐 Networking
-TCP/IP
-DNS
-DHCP
-Network Troubleshooting
-Wi-Fi Infrastructure
-Firewall & Network Security
+---
 
-🐳 DevOps & Infrastructure
-Docker
-Docker Compose
-Linux Server Administration
-Self-hosted Services
-Infrastructure Monitoring
-Logging
+## 🚀 Skills
 
-🔐 Cybersecurity
-System Hardening
-Vulnerability Assessment
-Security Monitoring
-Basic Web Security
-Network Security
-Ethical Hacking & Penetration Testing
+| Category          | Technologies / Skills                                        |
+| ----------------- | ------------------------------------------------------------ |
+| 🖥️ Systems       | Windows, Linux, Active Directory                             |
+| 🌐 Networking     | TCP/IP, DNS, DHCP, Wi-Fi, Firewalls                          |
+| 🐳 Infrastructure | Docker, Docker Compose, Self-hosted Services                 |
+| 🔐 Security       | System Hardening, Vulnerability Assessment, Network Security |
+| 📊 Monitoring     | Monitoring & Logging Tools                                   |
+| ⚙️ Scripting      | Bash, Python                                                 |
+| ☁️ Cloud          | AWS, Azure                                                   |
 
-⚙️ Scripting & Automation
-Bash
-Python
-Basic Infrastructure Automation
+---
 
-🛠️ Projects & Experience
-🐳 Docker & Self-Hosted Infrastructure
-Deployed and managed applications using Docker & Docker Compose
-Built Linux-based self-hosted environments
-Worked with containerized services and infrastructure management
+## 🛠️ Projects & Experience
 
-📊 Monitoring & Logging
-Worked with infrastructure monitoring solutions
-Configured logging environments for IT infrastructure
-Troubleshot system and network availability issues
+### 🐳 Docker & Self-Hosted Infrastructure
 
-🔐 Cybersecurity Projects
-Developed practical Python-based cybersecurity projects
-Worked on security-related scripting and system hardening
-Explored vulnerability assessment and penetration testing concepts
+* Deployed applications using **Docker & Docker Compose**
+* Built Linux-based self-hosted environments
+* Managed containerized services and infrastructure
 
-🌐 IT Infrastructure
-Windows and Linux system administration
-User and access management
-Network troubleshooting
-DNS and infrastructure support
-Hardware and software troubleshooting
-IT infrastructure deployment and maintenance
+### 📊 Monitoring & Logging
 
-🎓 Education
+* Worked with infrastructure monitoring solutions
+* Configured logging environments
+* Troubleshot system and network availability issues
 
-B.Sc. — Computer System Administration
+### 🔐 Cybersecurity
+
+* Worked on practical Python-based cybersecurity projects
+* Implemented basic security hardening
+* Explored vulnerability assessment and penetration testing
+* Worked on security monitoring concepts
+
+### 🌐 IT Infrastructure
+
+* Windows & Linux system administration
+* User and access management
+* Network troubleshooting
+* DNS and infrastructure support
+* Hardware and software troubleshooting
+* IT infrastructure deployment and maintenance
+
+---
+
+## 🎓 Education
+
+**B.Sc. — Computer System Administration**
+
 Yashwantrao Chavan Maharashtra Open University (YCMOU)
 
-📜 Certifications
-Microsoft / LinkedIn — Career Essentials in System Administration
-Cybersecurity Internship — Prodigy InfoTech
-Additional IT Infrastructure & Cybersecurity learning in progress
+---
 
-🌱 Currently Learning
-🔐 Advanced Cybersecurity
-🕵️ Ethical Hacking & Penetration Testing
-☁️ AWS & Microsoft Azure
-☸️ Kubernetes
-🤖 Infrastructure Automation
-🐍 Python & Bash Automation
-🛡️ Security Monitoring & Defensive Security
-📂 Featured Projects
+## 📜 Certifications
 
-I'm continuously adding practical projects related to:
+* **Microsoft / LinkedIn — Career Essentials in System Administration**
+* **Cybersecurity Internship — Prodigy InfoTech**
 
-🐧 Linux Administration
-🐳 Docker & Containers
-🌐 Networking
-📊 Monitoring & Logging
-🔐 Cybersecurity
-⚙️ Automation
-☁️ Cloud Infrastructure
-📫 Connect With Me
+---
 
-📧 Email: rahulrathod3578@gmail.com
+## 🌱 Currently Learning
 
-🔗 LinkedIn: linkedin.com/in/rahulrathod-sysadmin
+* 🔐 Advanced Cybersecurity
+* 🕵️ Ethical Hacking & Penetration Testing
+* ☁️ AWS & Microsoft Azure
+* ☸️ Kubernetes
+* 🤖 Infrastructure Automation
+* 🐍 Python & Bash Automation
+* 🛡️ Security Monitoring
 
-🌐 Portfolio: rahulrgit.github.io
+---
 
-💻 GitHub: github.com/rahulrgit
+## 📂 Featured Projects
 
-⚡ Fun Fact
+I'm continuously building practical projects around:
 
-I troubleshoot servers faster than I troubleshoot my sleep schedule. 😄
+* 🐧 Linux Administration
+* 🐳 Docker & Containers
+* 🌐 Networking
+* 📊 Monitoring & Logging
+* 🔐 Cybersecurity
+* ⚙️ Automation
+* ☁️ Cloud Infrastructure
 
-⭐ Thanks for visiting my profile!
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [rahulrathod3578@gmail.com](mailto:rahulrathod3578@gmail.com)
+
+🔗 **LinkedIn:** [rahulrathod-sysadmin](https://www.linkedin.com/in/rahulrathod-sysadmin)
+
+🌐 **Portfolio:** [rahulrgit.github.io](https://rahulrgit.github.io)
+
+💻 **GitHub:** [rahulrgit](https://github.com/rahulrgit)
+
+---
+
+### ⚡ Fun Fact
+
+> I troubleshoot servers faster than I troubleshoot my sleep schedule. 😄
+
+---
+
+⭐ **Thanks for visiting my profile!**
